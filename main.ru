@@ -1,2 +1,2 @@
-String name ="Abdalaziz";
-print(name);
+String message="Hello World";
+print(message);
